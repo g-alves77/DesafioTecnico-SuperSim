@@ -1,7 +1,6 @@
-#PokéDex - Desafio SuperSim
+# PokéDex - Desafio SuperSim
 
-## Objetivo
-
+### Objetivo
 Fazer um programa onde o usuário tem acesso a uma lista de pokémons.
 
 ### Sobre o site
